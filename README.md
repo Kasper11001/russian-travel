@@ -7,4 +7,4 @@
 а также методология БЭМ.
 
 
-ссылку на GitHub Pages.
+https://github.com/Kasper11001/russian-travel.git
