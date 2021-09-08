@@ -1,0 +1,44 @@
+.card {
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    padding-bottom: 54px;
+}
+
+.card:last-child {
+    padding-bottom: 66px;
+}
+
+@media screen and (min-width: 768px) {
+    .card {
+        max-width: 720px;
+        padding: 0 24px 73px;
+    }
+
+    .card:last-child {
+        padding-bottom: 66px;
+    }
+}
+        
+
+
+
+@media screen and (min-width: 1024px) {
+    .card {
+        max-width: 928px;
+        padding: 0 48px 80px;
+    }
+
+    .card:last-child {
+        padding-bottom: 92px;
+    }
+}
+
+@media screen and (min-width: 1280px) {
+    .card {
+        max-width: 984px;
+        padding: 0 48px 80px;
+    }
+
+    
+}

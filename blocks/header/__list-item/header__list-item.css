@@ -1,0 +1,14 @@
+.header__list-item {
+    list-style: none;
+    margin-right: 18px;
+}
+
+.header__list-item:last-child {
+    margin-right: 0;
+}
+
+@media screen and (min-width: 768px) {
+    .header__list-item {
+        
+    }
+}

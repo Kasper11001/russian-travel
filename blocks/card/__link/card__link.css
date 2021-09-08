@@ -1,0 +1,23 @@
+.card__link {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    text-decoration-line: underline;
+    color: #FFFFFF;
+    margin-top: 12px;
+}
+
+.card__link:hover {
+    opacity: .3;
+    transition: .3s;
+    cursor: pointer;
+}
+
+@media screen and (min-width: 768px) {
+    .card__link {
+        font-size: 18px;
+    }
+    
+}
