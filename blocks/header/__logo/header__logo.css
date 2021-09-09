@@ -1,7 +1,7 @@
 .header__logo {
     width: 142px;
     height: 42px; 
-    background-image: url(../../../images/__logo320.png);
+    background-image: url(../../../images/__logo.svg);
     background-repeat: no-repeat;
 }
 
@@ -9,7 +9,7 @@
     .header__logo {
         width: 176px;
         height: 52px;
-        background-image: url(../../../images/__logo768.png);
+        background-image: url(../../../images/__logo.svg);
         
     }
 }
