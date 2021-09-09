@@ -17,7 +17,7 @@
         background-image: url(../../images/__background768.png);
         max-width: 768px;
         max-height: 480px;
-        padding: 115px 104px;
+        padding: 126px 104px;
     }
     
 }
@@ -27,7 +27,7 @@
         background-image: url(../../images/__background1024.jpg);
         max-width: 1024px;
         max-height: 640px;
-        padding: 195px 232px;
+        padding: 206px 232px;
     }
     
 }
@@ -37,7 +37,7 @@
         background-image: url(../../images/__background1184.png);
         max-width: 1184px;
         max-height: 740px;
-        padding: 245px 312px;
+        padding: 257px 312px;
     }
     
 }
