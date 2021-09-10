@@ -1,23 +1,17 @@
 .card__link {
-    font-family: Inter;
+    font-family: 'Inter', Arial, sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 18px;
     line-height: 22px;
     text-decoration-line: underline;
-    color: #FFFFFF;
+    color: #ffffff;
     margin-top: 12px;
-}
-
-.card__link:hover {
-    opacity: .3;
-    transition: .3s;
+  }
+  
+  .card__link:hover {
+    opacity: 0.8;
+    transition: 0.3s;
     cursor: pointer;
-}
-
-@media screen and (min-width: 768px) {
-    .card__link {
-        font-size: 18px;
-    }
-    
-}
+  }
+  

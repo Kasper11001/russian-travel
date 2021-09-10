@@ -1,23 +1,22 @@
 .photo-grid__item {
     width: 288px;
-    
-    
-}
-
-@media screen and (min-width:768px) {
+  }
+  
+  @media screen and (min-width: 768px) {
     .photo-grid__item {
-        width: 352px;
-    }    
-}
-
-@media screen and (min-width:1024px) {
+      width: 352px;
+    }
+  }
+  
+  @media screen and (min-width: 1024px) {
     .photo-grid__item {
-        width: 300px;
-    } 
-}
-
-@media screen and (min-width:1280px) {
+      width: 300px;
+    }
+  }
+  
+  @media screen and (min-width: 1280px) {
     .photo-grid__item {
-        width: 284px;
-    } 
-}
+      width: 284px;
+    }
+  }
+  
