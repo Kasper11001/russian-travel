@@ -1,12 +1,11 @@
 .card__paragraph {
-    margin: auto;
     font-family: 'Inter', Arial, sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 16px;
     line-height: 26px;
     color: #ffffff;
-    margin: 25px 0 0;
+    margin: 25px auto 0;
   }
   
   .card__paragraph:nth-child(1) {
