@@ -17,10 +17,6 @@
       max-width: 352px;
       margin: 25px 0 0;
     }
-  
-    .card__paragraph:nth-child(1) {
-      margin: 0;
-    }
   }
   
   @media screen and (min-width: 1024px) {
