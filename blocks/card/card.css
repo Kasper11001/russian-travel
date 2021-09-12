@@ -8,8 +8,8 @@
 }
 
 .card:last-child {
-  margin-top: 26px;
-  padding-bottom: 70px;
+  margin-top: 0px;
+  padding-bottom: 65px;
 }
 
 @media screen and (min-width: 768px) {
