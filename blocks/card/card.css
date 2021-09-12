@@ -21,7 +21,6 @@
   }
 
   .card:last-child {
-    margin-top: 0px;
     padding-bottom: 66px;
   }
 }
